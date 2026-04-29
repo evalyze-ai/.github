@@ -1,6 +1,6 @@
 # Evalyze
 
-Tools for founders raising capital, built on Claude.
+Tools for founders raising capital.
 
 Most founders waste weeks researching investors, writing emails that get deleted, and second-guessing every reply. We're building tools that fix the parts of fundraising that should be solvable, so founders can spend their time on the parts that aren't.
 
